@@ -1,6 +1,8 @@
 # Binary_Tree-Operations
 C Program For Operations In Binary Tree
 
+C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.
+
 This Is A C Program To Illustrate The Operations Done In A Binary Tree
 
 The Operations Illustrated :
